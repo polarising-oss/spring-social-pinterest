@@ -1,2 +1,2 @@
-# polarising-oss
-Polarising open source software projects
+# spring-social-pinterest
+Spring Social for Pinterest
